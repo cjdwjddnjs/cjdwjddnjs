@@ -1,6 +1,6 @@
 <h1>
   <strong>     learning<br>
-  👋글로벌IT인재개발원<br>
+  👋글로벌IT인재개발원 6개월 과정<br>
 </h1>
   </strong>
 <li>기본 프로그래밍: Java, Python, SQL<br>
